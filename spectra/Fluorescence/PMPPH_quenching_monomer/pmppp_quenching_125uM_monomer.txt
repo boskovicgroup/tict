@@ -1,0 +1,21 @@
+Fluorescence quenching 
+PMPPP (125 µM)
+
+Fluorescence 1D scan analysis
+
+Five solutions of p-methoxyphenylpyrrolinium perchlorate (125 µM) in methanol containing 
+0, 1, 10, 100, and 1000 equivalents of acrylonitrile, respectivly. 
+
+
+Emission experiment
+
+Scan range parameters
+Start (nm): 330
+End (nm): 430
+Excitation (nm): 316
+Ex Slit (nm): 5.0
+Em Slit (nm): 5.0
+Scan Speed (nm/min): 100
+
+
+

@@ -1,0 +1,32 @@
+PMPPNS
+Fluorescence 3D scan analysis
+
+Methanolic solutions of p-methoxyphenylpyrroline (no protonated substrate)
+Concentrations: 
+31 µM
+62 µM
+125 µM
+250 µM
+500 µM
+1 mM
+2 mM
+4 mM
+8 mM
+
+
+Synchronous emission δλ 
+
+Scan range parameters
+Start (nm): 250
+End (nm): 450
+Delta Lambda (nm): 5
+Ex Slit (nm): 5.0
+Em Slit (nm): 5.0
+Scan Speed (nm/min): 500
+
+3D Scan Range Parameters
+Number of scans: 10
+Delta Lambda Increment (nm):5
+
+
+

@@ -1,0 +1,24 @@
+PMPPP
+Fluorescence 1D scan analysis
+
+Methanolic solutions of p-methoxyphenylpyrrolinium perchlorate
+Concentrations: 
+31 µM
+62 µM
+125 µM
+250 µM
+500 µM
+
+
+Emission experiment
+
+Scan range parameters
+Start (nm): 330
+End (nm): 900
+Excitation (nm): 316
+Ex Slit (nm): 5.0
+Em Slit (nm): 5.0
+Scan Speed (nm/min): 100
+
+
+
